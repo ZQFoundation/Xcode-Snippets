@@ -1,3 +1,9 @@
+// tvds
+// 
+//
+// IDECodeSnippetIdentifier: FB7FD90B-8284-4D67-A85F-433A0E4B8272
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 ---
 title: "UITableViewDataSource"
 summary: "Placeholders for required UITableViewDataSource delegate methods"

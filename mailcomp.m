@@ -1,3 +1,9 @@
+// mailcomp
+// 
+//
+// IDECodeSnippetIdentifier: F3B4CA0A-772C-41AA-A7A6-77BB1CDC7A74
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 ---
 title: "MFMailComposeViewController Initialization & Delegate"
 summary: "Methods required to use the iOS Mail Composer"

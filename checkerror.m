@@ -1,3 +1,9 @@
+// checkerror
+// 
+//
+// IDECodeSnippetIdentifier: 15596159-6199-490C-A183-17BA6A9E5CB9
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 ---
 title: "CheckError"
 summary: "Function that extracts human-readable information from OSStatus codes."

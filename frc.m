@@ -1,3 +1,9 @@
+// frc
+// 
+//
+// IDECodeSnippetIdentifier: 7703E17C-76D1-4569-B2E4-8B22749297D1
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 ---
 title: "NSFetchedResultsController"
 summary: "Boilerplate for creating an NSFetchedResultsController"
